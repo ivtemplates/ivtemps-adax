@@ -1,0 +1,29 @@
+<div class='ivt-adc'>
+	
+<!-- sidebar random ads-3 -->
+	
+<div class='in-ar'>
+<div class='in-ar1'>
+<p class=''>Bid for this Ads Space</p></div>
+
+<div class='in-ar2'>
+We welcome banner and text ads on this spot from ideal interested partners.</div>
+
+<a class='oprj12' href='http://www.ivtheme.com/p/advertise.html'>Learn more</a>
+</div>
+
+<div class='ivt-adc'>
+	
+<!-- sidebar random ads-2 -->
+	
+<a href='http://www.ivtheme.com/p/advertise.html'><img alt='ivt-banner' border='0' height='250' src='https://3.bp.blogspot.com/-okPl9hOfSKs/XuN73fv7qNI/AAAAAAAAOJo/2IqcDfXx-PYxXlDUjlvsGo9BpGV5Zmx4wCLcBGAsYHQ/s1600/iVTheme-300by250.png' width='300'/></a>
+
+</div>
+
+<div class='ivt-adc'>
+	
+<!-- sidebar random ads-1 -->
+	
+<a href='http://www.ivtheme.com/p/affiliate-program.html'><img alt='ivt-banner' border='0' height='250' src='https://1.bp.blogspot.com/-NVPUnNjdGBo/X24MMcN0TqI/AAAAAAAAOhM/N1ZExZja4Is9xTrfdVehrDQYg0eU5MkYgCLcBGAsYHQ/s0/blank-Ads-Space.png' width='300'/></a>
+
+</div>
